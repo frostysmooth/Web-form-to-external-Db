@@ -1,0 +1,9 @@
+\\cesutility1\MyDocumentsFolders\justin\Documents\Visual Studio 2010\Projects\MockUp3_r3\MockUp3_r3\bin\MockUp3_r3.dll
+\\cesutility1\MyDocumentsFolders\justin\Documents\Visual Studio 2010\Projects\MockUp3_r3\MockUp3_r3\bin\MockUp3_r3.pdb
+\\cesutility1\MyDocumentsFolders\justin\Documents\Visual Studio 2010\Projects\MockUp3_r3\MockUp3_r3\obj\Debug\ResolveAssemblyReference.cache
+\\cesutility1\MyDocumentsFolders\justin\Documents\Visual Studio 2010\Projects\MockUp3_r3\MockUp3_r3\obj\Debug\MockUp3_r3.dll
+\\cesutility1\MyDocumentsFolders\justin\Documents\Visual Studio 2010\Projects\MockUp3_r3\MockUp3_r3\obj\Debug\MockUp3_r3.pdb
+D:\MockUp3_r3\MockUp3_r3\bin\MockUp3_r3.dll
+D:\MockUp3_r3\MockUp3_r3\bin\MockUp3_r3.pdb
+D:\MockUp3_r3\MockUp3_r3\obj\Debug\MockUp3_r3.dll
+D:\MockUp3_r3\MockUp3_r3\obj\Debug\MockUp3_r3.pdb
